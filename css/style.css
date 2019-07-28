@@ -1,0 +1,145 @@
+.container-flued-nav {
+  background-color: #56a24c;
+}
+
+.contact-info-start p {
+  text-align: start;
+  color: #fff;
+  padding: .7rem;
+}
+
+.contact-info-start a {
+  color: #fff;
+}
+
+p {
+  margin-bottom: 0rem;
+}
+
+.contact-info-end p {
+  text-align: right;
+  color: #fff;
+  padding: .7rem;
+}
+
+.contact-info-end p a {
+  color: #fff;
+}
+
+.icon {
+  width: .9rem;
+  height: 1rem;
+}
+
+h2 {
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.custom-impl img {
+  margin: 3%;
+}
+
+.custom-impl a {
+  font-size: 1.1rem;
+  margin-left: 1.9rem;
+  padding: 2.6rem;
+  color: blue;
+}
+
+.custom-nav-color {
+  -webkit-box-shadow: 0 8px 6px -6px wheat;
+          box-shadow: 0 8px 6px -6px wheat;
+  border-bottom: 1px solid wheat;
+}
+
+.banner-heading-1 h2 {
+  font-size: 3rem;
+  position: absolute;
+  margin: 4.5rem 14.2rem;
+}
+
+.banner-heading-1 h2 .heading-underline {
+  border-bottom: 1px solid black;
+  margin-top: 3.9rem;
+  width: 9.2rem;
+}
+
+.banner-heading-1 h5 {
+  position: absolute;
+  margin: 19rem 14.2rem;
+  font-size: 1.9rem;
+  margin-bottom: 10%;
+}
+
+img {
+  width: 100%;
+  height: 50%;
+}
+
+.interested-language {
+  margin-top: 2rem;
+}
+
+.interested-language .language-select {
+  height: 188px;
+  width: 219px;
+}
+
+.card-custom-impl {
+  margin-top: 0rem;
+}
+
+.card-custom-impl .read-more-btn {
+  width: 47%;
+  margin: .9rem;
+  font-size: .8rem;
+  height: 40%;
+}
+
+.about-heading h2 {
+  font-size: 2rem;
+  margin-top: 6rem;
+}
+
+.about-container-flued {
+  -webkit-box-shadow: 0 8px 6px -6px wheat;
+          box-shadow: 0 8px 6px -6px wheat;
+}
+
+.about-image {
+  width: 25rem;
+  /* justify-content: flex-end; */
+  margin: -9% 59%;
+}
+
+.insterested-language {
+  /* margin: 20%; */
+  margin: 19%;
+}
+
+.custom-achivement {
+  background: linear-gradient(175deg, #ededed 59%, #fff 20%);
+}
+
+.custom-achivement .custom-achivement-row {
+  margin-left: 15%;
+}
+
+.custom-achivement .custom-achivement-row h5 {
+  margin-bottom: 8%;
+}
+
+.row-achivement-section {
+  width: 100%;
+  margin-left: 10%;
+}
+
+.row-achivement-section h2 {
+  margin-top: 10%;
+}
+
+.row-achivement-section .custom-img {
+  width: 40%;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,177 @@
+$base-color: #56a24c;
+$white :#fff;
+
+.container-flued-nav {
+    background-color: $base-color;
+}
+
+.contact-info-start {
+    p {
+        text-align: start;
+        color: $white;
+        padding: .7rem;
+    }
+
+    a {
+        color: $white;
+    }
+}
+
+p {
+    margin-bottom: 0rem;
+}
+
+.contact-info-end {
+    p {
+        text-align: right;
+        color: $white;
+        padding: .7rem;
+
+        a {
+            color: $white;
+        }
+    }
+}
+
+.icon {
+    width: .9rem;
+    height: 1rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.custom-impl {
+    img {
+        margin: 3%;
+    }
+}
+
+.custom-impl a {
+    font-size: 1.1rem;
+    margin-left: 1.9rem;
+    padding: 2.6rem;
+    color: blue;
+
+}
+
+.custom-nav-color {
+    box-shadow: 0 8px 6px -6px wheat;
+    // display: block;
+    border-bottom: 1px solid wheat;
+}
+
+.banner-heading-1 {
+    h2 {
+        font-size: 3rem;
+        position: absolute;
+        margin: 4.5rem 14.2rem;
+
+        .heading-underline {
+            border-bottom: 1px solid black;
+            margin-top: 3.9rem;
+            width: 9.2rem;
+        }
+    }
+
+    h5 {
+        position: absolute;
+        margin: 19rem 14.2rem;
+        font-size: 1.9rem;
+        margin-bottom: 10%;
+    }
+
+}
+
+img {
+    width: 100%;
+    height: 50%;
+    // position: relative;
+}
+
+    .interested-language
+    {
+        margin-top: 2rem;
+        .language-select
+        {
+            height: 188px;
+            width: 219px;
+        }
+
+    }
+
+.card-custom-impl {
+
+    // margin-left: 15rem;
+    margin-top: 0rem;
+
+    .read-more-btn {
+        width: 47%;
+        margin: .9rem;
+        font-size: .8rem;
+        height: 40%;
+        // text-align: center;
+    }
+}
+
+
+.about-heading {
+
+    h2 {
+        font-size: 2rem;
+        margin-top: 6rem;
+    }
+}
+
+.about-container-flued {
+    box-shadow: 0 8px 6px -6px wheat;
+    // background-color: $white;
+}
+
+.about-image {
+    width: 25rem;
+    //  height: 10rem; 
+    /* justify-content: flex-end; */
+    margin: -9% 59%;
+}
+
+.insterested-language {
+    // background: grey;
+    // padding: 31% 40%;
+    /* margin: 20%; */
+     margin: 19%;
+}
+
+.custom-achivement {
+    background: linear-gradient(175deg, #ededed 59%, #fff 20%);
+
+    // margin-left: 14%;
+    // width: 100%;
+
+    .custom-achivement-row {
+        margin-left: 15%;
+       
+        h5
+        {
+            margin-bottom: 8%;
+        }
+    }
+}
+
+.row-achivement-section {
+    width: 100%;
+    margin-left: 10%;
+
+    // height: 20%;
+    h2 {
+        margin-top: 10%;
+    }
+
+    .custom-img {
+        width: 40%;
+    }
+
+
+}
